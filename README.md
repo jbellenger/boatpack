@@ -1,4 +1,4 @@
 boatpack
 ========
 
-Testing out some ideas on optimal boat packing.
+Testing out some ideas in boat packing.
